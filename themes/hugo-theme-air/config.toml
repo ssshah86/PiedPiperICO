@@ -1,0 +1,26 @@
+BaseUrl= "https://piedpiperico.firebaseapp.com"
+LanguageCode= "en-US"
+Title= "Pied Piper Coin Tracker"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2018"
+canonifyurls = true
+
+[author]
+  name = "ssshah86"
+
+[params]
+  description = "Price: $0.07 -  Market Cap:$94,500 - Volume: $7.14"
+  cover = "images/user.jpg"
+  author = "ssshah86"
+  authorlocation = ""
+  authorwebsite = "https://github.com/ssshah86/"
+  bio= "my bio"
+  logo = "images/ppc-logo.svg"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "ssshah86"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true

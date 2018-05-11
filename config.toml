@@ -1,0 +1,4 @@
+baseURL = "https://piedpiperico.firebaseapp.com/"
+languageCode = "en-us"
+title = "Pied Piper Coin Tracker"
+theme = "hugo-theme-air"
